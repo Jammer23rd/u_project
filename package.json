@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon server/server.js -w server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jammer23rd/upskill_rfid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jammer23rd/upskill_rfid/issues"
+  },
+  "homepage": "https://github.com/Jammer23rd/upskill_rfid#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": [],
+  "description": ""
+}
